@@ -28,7 +28,7 @@ public static function form(Form $form): Form
 }
 ```
 
-#### Appareance
+#### Appearance
 
 ![Filament Timezone Field](https://raw.githubusercontent.com/TappNetwork/filament-timezone-field/main/docs/filament-timezone-field.png)
 
